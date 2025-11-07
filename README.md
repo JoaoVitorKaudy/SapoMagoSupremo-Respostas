@@ -1,6 +1,8 @@
 # SapoMagoSupremo-Respostas
 Projeto Universitario envolvendo a API Ollama
 
+![Sapo Mago Supremo](sapo_mago.png)
+
 # Projeto Sapo Mago Supremo
 
 Este é um projeto de chatbot feito em HTML, CSS, JavaScript ePHP. Ele usa o [Ollama] (https://ollama.com/) rodando localmente para gerar as respostas do Sapo Mago.
